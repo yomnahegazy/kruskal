@@ -1,0 +1,8 @@
+C:\Users\maria\Desktop\kruskal\kruskal\bin\Debug\kruskal.exe.config
+C:\Users\maria\Desktop\kruskal\kruskal\bin\Debug\kruskal.exe
+C:\Users\maria\Desktop\kruskal\kruskal\bin\Debug\kruskal.pdb
+C:\Users\maria\Desktop\kruskal\kruskal\obj\Debug\kruskal.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\kruskal\kruskal\obj\Debug\kruskal.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Desktop\kruskal\kruskal\obj\Debug\kruskal.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\kruskal\kruskal\obj\Debug\kruskal.exe
+C:\Users\maria\Desktop\kruskal\kruskal\obj\Debug\kruskal.pdb
